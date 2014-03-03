@@ -1,3 +1,8 @@
 ddddddd
+<<<<<<< HEAD
 
 jjjj
+=======
+lienea modificada
+otre mas
+>>>>>>> 1aba7334269aa73d82fe8373c19959802997ef53
